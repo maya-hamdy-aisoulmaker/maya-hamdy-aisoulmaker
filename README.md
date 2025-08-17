@@ -3,7 +3,7 @@
 ---
 
 ## 🚀 About Me
-- 🤖 I design AI chatbots with soul and purpose – empathetic in conversation, effective in action.
+- 🤖 I design AI chatbots with soul and purpose – empathetic in dialogue, effective in action.
 - 👩‍💻 I design human-centered AI assistants that create meaningful experiences and provide real value. 
 - 🎓 Combining pedagogy (Dipl.-Päd.) with advanced **prompt engineering**  
 - ✨ Founder of **AI Soul Maker®**, creating ethical & creative AI solutions  
