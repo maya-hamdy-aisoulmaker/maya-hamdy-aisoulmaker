@@ -3,18 +3,10 @@
 ---
 
 ## 🚀 About Me
-- 🤖 I design AI chatbots with soul and purpose – empathetic in dialogue, effective in action.
-- 👩‍💻 I design human-centered AI assistants that create meaningful experiences and provide real value. 
-- 🎓 Combining pedagogy (Dipl.-Päd.) with advanced **prompt engineering**  
-- ✨ With my AI Soul Maker® method, I craft empathetic, purposeful, and reliable chatbots – for web, apps, and robots alike  
-- 🌱 Currently training as a **Fullstack Developer** to strengthen my technical foundation  
-
----
-
-## 🌟 Focus & Values
-- 💡 **Human-centered AI** – shaping technology to be empathetic & creative  
-- 🔗 **Open Source & Collaboration** – contributing to projects that push boundaries  
-- 🎭 **AI Dialogues with Soul & Robots with Character** – building AI that feels alive  
+- 🤖 I craft AI chatbots with soul and purpose – empathetic in dialogue, effective in action.  
+- 🎓 Combining pedagogy (Dipl.-Päd.) with professional prompt engineering  
+- ✨ With my AI Soul Maker® method, I stand for ethical, purposeful, and reliable AI solutions – for web, apps, and robots alike  
+- 🌱 Currently learning Fullstack Development to build a solid technical foundation
 
 ---
 
